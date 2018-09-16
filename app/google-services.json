@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "854347118749",
+    "firebase_url": "https://mediconapp.firebaseio.com",
+    "project_id": "mediconapp",
+    "storage_bucket": "mediconapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854347118749:android:d15c455f463deae1",
+        "android_client_info": {
+          "package_name": "com.predator.medicon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854347118749-gqrmnrt9h7cair789r3rlspjtsfobpcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.predator.medicon",
+            "certificate_hash": "9a594c12e9749f09bea7a9fe6a4be6c646dfaf58"
+          }
+        },
+        {
+          "client_id": "854347118749-oefm93b3jlqi8q5k66vkamr9vcnlq26g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIyC3fI4WItgLRN9NwL3PpW_wpawnmfC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854347118749-oefm93b3jlqi8q5k66vkamr9vcnlq26g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

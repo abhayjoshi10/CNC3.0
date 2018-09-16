@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Medicon</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="sign_in">sign in</string>
+    <string name="log_out">log out</string>
+    <string name="blood_bank">Blood Bank</string>
+    <string name="create_account">create account</string>
+    <string name="already_a_member_login">Already a member? Login</string>
+    <string name="logoimage">logoimage</string>
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="ambulance_1">Ambulance 1</string>
+    <string name="call">call</string>
+    <string name="ambulance_2">Ambulance 2</string>
+</resources>
